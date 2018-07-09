@@ -1,5 +1,14 @@
 # Simple table written in kotlin
 
+Maven dependency:
+```xml
+<dependency>
+  <groupId>io.github.stanimiriliev</groupId>
+  <artifactId>simple-table</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+</dependency>
+```
+
 ## Examples:
 
 Table with bold header
